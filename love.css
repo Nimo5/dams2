@@ -1,0 +1,58 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image:url('love.jpeg') ;
+ 
+    background-size: 100px;
+    
+}
+#div_bot{
+    background-color: rgba(255, 192, 203, 0.881);
+    color:black;
+    height: 300px;
+    width: 600px;
+text-align: center;
+
+justify-content: center;
+padding: 150px;
+border-radius: 50px;
+}
+#bot1{
+    height: 100px;
+    width: 200px;
+    text-align: center;
+    background-color: rgb(255, 192, 203);
+    color:black;
+    margin: 0;
+    border-radius:20px ;
+
+}
+#bot2{
+    height: 100px;
+    width: 200px;
+    text-align: center;
+    background-color: pink;
+    color:black;
+    margin: 0;
+    border-radius:20px ;
+
+}
+
+h1{
+    font-size: 50px;
+}
+#bot1{
+    font-size: 30px;
+}
+#bot2{
+    font-size:30px;
+}
+#text{
+    font-size: 40px;
+}
+#text2{
+    font-size: 40px;
+}
